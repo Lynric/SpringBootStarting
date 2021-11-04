@@ -12,12 +12,24 @@
 ## 一、 MarkDown用法
 
 1. “\#”表示标题，可以通过数量表示1-6级标题
+
 2. “\*”表示斜体粗体，分割线
+
 3. “\~~”表示删除，例如：~~删除这里~~
+
 4. < u >标签表示下划线，例如<u>selected text</u>
+
 5. 创建一个脚注[^left foot]
 
 6. 更多功能自行百度
+
+7. "```"表示代码块，例如
+
+   ```java
+   //这是一段java代码
+   ```
+
+   
 
 [^left foot]: 
 
@@ -44,8 +56,8 @@ You can also upload existing files from your computer using the instructions bel
 **Git global setup**
 
 ```
-git config --global user.name "李冉"
-git config --global user.email "liran1994@qq.com"
+git config --global user.name "YOURNAME"
+git config --global user.email "SAMPLE@SAMPLE.COM"
 ```
 
 **Create a new repository**
@@ -133,10 +145,14 @@ IdentityFile ~/.ssh/id_rsa2
      git push origin master
      ```
 
+## 三、 GitHub入门
+
+### 1. 查找项目
+
+​	awesome XXX； XXX sample
 
 
-
-## 三、 开始面向spring编程
+## 四、 开始面向spring编程
 
 ### 1. Hello， Java
 
