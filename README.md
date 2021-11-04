@@ -139,3 +139,7 @@ IdentityFile ~/.ssh/id_rsa2
 ## 三、 开始面向spring编程
 
 ### 1. Hello， Java
+
+```java
+public static void main(String[] args) {}
+```
