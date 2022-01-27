@@ -159,3 +159,7 @@ IdentityFile ~/.ssh/id_rsa2
 ```java
 public static void main(String[] args) {}
 ```
+
+### 2. mac配置环境
+
+​	finish.
